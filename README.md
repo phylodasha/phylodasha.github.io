@@ -155,4 +155,4 @@
 
 ![](last_meme.jpg) ![](last_meme_.jpg) 
 
-PS: ссылочка на "корпус": https://drive.google.com/open?id=1vjY69vORgXMt14hTy-5TEvv4U-1Qx0ar
+PS: [ссылочка на "корпус"](https://drive.google.com/open?id=1vjY69vORgXMt14hTy-5TEvv4U-1Qx0ar)
