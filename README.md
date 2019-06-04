@@ -1,5 +1,5 @@
 # *HP Project*
-ссылочка на "корпус": https://drive.google.com/open?id=1vjY69vORgXMt14hTy-5TEvv4U-1Qx0ar
+
 # Цель
 Изучить развитие тем и мотивов в серии книг о Гарри Поттере (далее - ГП):
 * учебная жизнь в Хогвартсе
@@ -154,3 +154,5 @@
 ![](2019-06-04_13-08-08.png)
 
 ![](last_meme.jpg) ![](last_meme_.jpg) 
+
+PS: ссылочка на "корпус": https://drive.google.com/open?id=1vjY69vORgXMt14hTy-5TEvv4U-1Qx0ar
