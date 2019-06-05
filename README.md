@@ -24,6 +24,7 @@
 * MyStem
 * AntConc
 * Voyant Tools
+* Мемы
 
 ![](instrument_meme.jpg)
 
